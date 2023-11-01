@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MDRDAD
+- 👋 Hi, I’m @ Rashid Ahmed
 - 👀 I’m interested in python ,GitHub,SQL, termux and others tools
 - 🌱 I’m currently new learner 
 - 💞️ I’m looking for learning coding and programming 
