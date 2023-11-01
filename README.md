@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MDRDAD
-- 👀 I’m interested in programming 
+- 👀 I’m interested in python ,GitHub,SQL, termux and others tools
 - 🌱 I’m currently new learner 
 - 💞️ I’m looking for learning coding and programming 
 - 📫 crackboy99@gmail.com
